@@ -67,8 +67,7 @@ The game allows players to uncover cells, place flags, and avoid hidden mines wh
   ├── Main.java
   ├── Menu.java
   ├── ResultadoVitoria.java
-  ├── Tabuleiro.java
-  └── 
+  └──  Tabuleiro.java
 ```
 
 ---
